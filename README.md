@@ -3,6 +3,12 @@
 Entry for [news-image-20261118](https://make.fun/c/news-image-20261118):
 one image summing up the world's news of Wednesday 18 November 2026.
 
+[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/mmr9759/news-image-20261118/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/mmr9759/news-image-20261118/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+
+Live on [make.fun](https://make.fun/bounty/news-image-20261118) — see the bounty page for the live leaderboard and prize.
+
 ## The image
 
 A front page, **"THE WORLD TODAY"**, drawn programmatically with Python/PIL
